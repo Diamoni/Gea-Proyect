@@ -1,9 +1,11 @@
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\com\gea\geaproyecto\JakartaRestConfiguration.java
+C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\com\gea\geaproyecto\servlests\SvEliminar.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\logica\Usuario.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\logica\Controladora.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\persistencia\UsuarioJpaController.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\persistencia\exceptions\NonexistentEntityException.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\com\gea\geaproyecto\servlests\SvEditar.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\com\gea\geaproyecto\resources\JakartaEE8Resource.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\persistencia\ControladoraPersistencia.java
 C:\Users\diamo\OneDrive\Documents\NetBeansProjects\GeaProyecto\src\main\java\persistencia\exceptions\IllegalOrphanException.java

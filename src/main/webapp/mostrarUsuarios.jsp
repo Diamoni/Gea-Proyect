@@ -16,6 +16,7 @@
         %>
         
                 <p><b>Usuario Numero: <%=cont%> </b></p>
+                <p>Id: <%=usu.getId()%></p>
                 <p>Nombre: <%=usu.getNombre()%></p>
                 <p>Apellido: <%=usu.getApellido()%></p>
                 <p>Correo: <%=usu.getCorreo()%></p>
